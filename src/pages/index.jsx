@@ -41,7 +41,7 @@ export default function Home() {
         </div>
         {/* End Custom Cursor */}
         {/* header-section start */}
-        <Navbar />
+        {/* <Navbar /> */}
         {/* header-section end */}
         {/* Sidebar Menu start */}
         <div className="sidebar-wrapper">
@@ -347,12 +347,7 @@ export default function Home() {
         {/* Contact Us end */}
         {/*==================================================================*/}
         {/* <!-- ==== js dependencies start ==== --> */}
-
       </div>
-      <script type="text/javascript" src="../assets/js/plugins/plugins.js" ></script>
-      <script type="text/javascript" src="../assets/js/plugins/plugin-custom.js" ></script>
-      <script type="text/javascript" src="../assets/js/main.js" ></script>
-      <script type="text/javascript" data-cfasync="false" src="../assets/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js" ></script>
     </>
 
   )

@@ -60,10 +60,7 @@ export default function Navbar() {
                         </div>
                     </div>
                 </nav>
-                <script type="text/javascript" src="../assets/js/plugins/plugins.js" ></script>
-                <script type="text/javascript" src="../assets/js/plugins/plugin-custom.js" ></script>
-                <script type="text/javascript" src="../assets/js/main.js" ></script>
-                <script type="text/javascript" data-cfasync="false" src="../assets/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js" ></script>
+    
             </header>
         </>
     )
